@@ -70,5 +70,5 @@ Feel free to explore, fork, and submit pull requests to make OrthoMate an even m
 
 ## Thank You
 
-Thank you for your interest in OrthoMate! We believe that the fusion of web technologies, Flask framework, and CNN algorithm, along with the provided dataset, can bring substantial advancements in knee osteoarthritis management and improve patients' quality of life. Together, let's revolutionize osteoarthritis diagnosis and treatment. 🦴🔍
+Thank you for your interest in OrthoMate! I believe that the fusion of web technologies, Flask framework, and CNN algorithm, along with the provided dataset, can bring substantial advancements in knee osteoarthritis management and improve patients' quality of life. Together, let's revolutionize osteoarthritis diagnosis and treatment. 🦴🔍
 
